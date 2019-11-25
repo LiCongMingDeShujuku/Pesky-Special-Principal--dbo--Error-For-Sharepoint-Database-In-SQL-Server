@@ -4,8 +4,6 @@
 #### Pesky Special Principal ‘dbo’ Error For Sharepoint Database In SQL Server
 **发布-日期: 2016年8月3日 (评论)**
 
-![#](images/principal-dbo-error-a.png?raw=true "#")
-
 ## Contents
 
 - [中文](#中文)
